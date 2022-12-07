@@ -7,6 +7,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>BOOTSTRAP 5</li>
+<li>JAVASCRIPT</li>
 </ul>
 <hr>
 <h4>Este site é responsivo à dispositivos mobile</h4>
