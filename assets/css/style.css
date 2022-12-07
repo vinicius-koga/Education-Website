@@ -118,6 +118,9 @@ a{
 .classLink small:hover{
   text-decoration: underline;
 }
+.feedbackBox{
+  padding-left: 25px;
+}
 
 
 /* SECTION NUMBERS */
@@ -174,6 +177,9 @@ footer img{
   }
   .hideSM{
     display: none;
+  }
+  .feedbackBox{
+    padding-left: 12px;
   }
 }
 @media (max-width: 500px){
