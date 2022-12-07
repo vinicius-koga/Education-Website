@@ -1,4 +1,4 @@
-<h1>Site EducaçãoONE</h1>
+<h2>Site EducaçãoONE</h2>
 <hr>
 <h3>Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a></h3>
 <hr>
