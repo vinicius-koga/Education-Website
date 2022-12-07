@@ -1,12 +1,12 @@
-<h2>Site EducaçãoONE</h2>
+<h1>Site EducaçãoONE</h1>
 <hr>
-<h2>Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a></h2>
+<h3>Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a></h3>
 <hr>
-<h2>Tecnologias utilizadas</h2>
+<h3>Tecnologias utilizadas</h3>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>BOOTSTRAP 5</li>
 </ul>
 <hr>
-<h2>Este site é responsivo à dispositivos mobile</h2>
+<h4>Este site é responsivo à dispositivos mobile</h4>
