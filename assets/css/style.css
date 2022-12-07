@@ -228,3 +228,8 @@ footer img{
     width: 100%;
   }
 }
+@media (max-width: 325px){
+  .navbar-brand h3{
+    font-size: 1.1rem;
+  }
+}
