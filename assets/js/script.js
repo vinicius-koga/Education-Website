@@ -38,6 +38,15 @@ function cronometer() {
 setInterval(cronometer, 1000);
 
 //FADE IN ANIMATION
+const observer0 = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+      if(entry.isIntersecting){
+          document.querySelector('.animated0').classList.add('fadeInBottom');
+      }
+  })
+})
+observer0.observe(document.querySelector('.animated0'));
+
 const observer1 = new IntersectionObserver(entries => {
   entries.forEach(entry => {
       if(entry.isIntersecting){
