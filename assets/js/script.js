@@ -1,3 +1,4 @@
+//CRONOMETER
 let daysEl = document.querySelector('.cronDays');
 let hoursEl = document.querySelector('.cronHours');
 let minutesEl = document.querySelector('.cronMinutes');
@@ -35,3 +36,22 @@ function cronometer() {
 }
 
 setInterval(cronometer, 1000);
+
+//FADE IN ANIMATION
+const observer1 = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+      if(entry.isIntersecting){
+          document.querySelector('.animated1').classList.add('fadeInLeft');
+      }
+  })
+})
+observer1.observe(document.querySelector('.animated1'));
+
+const observer2 = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+      if(entry.isIntersecting){
+          document.querySelector('.animated2').classList.add('fadeInRight');
+      }
+  })
+})
+observer2.observe(document.querySelector('.animated2'));
