@@ -1,7 +1,5 @@
 # Education Website
 
-### Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a>
-
 ### Tecnologias utilizadas:
 <ul>
 <li>HTML</li>
@@ -11,3 +9,5 @@
 </ul>
 
 ### Este site é responsivo à dispositivos mobile
+
+Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a>
