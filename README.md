@@ -2,7 +2,7 @@
 
 ### Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a>
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas:
 <ul>
 <li>HTML</li>
 <li>CSS</li>
