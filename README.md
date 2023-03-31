@@ -1,5 +1,7 @@
 # Education Website
 
+Um site de educação em que utilizo recursos avançados de Bootstrap.
+
 ### Tecnologias utilizadas:
 <ul>
 <li>HTML</li>
