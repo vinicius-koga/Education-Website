@@ -12,4 +12,4 @@ Um site de educação em que utilizo recursos avançados de Bootstrap.
 
 ### Este site é responsivo à dispositivos mobile
 
-Template feito por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a>
+Template por <a href="https://www.behance.net/vctung" target="_blank">Tung Vo</a>
